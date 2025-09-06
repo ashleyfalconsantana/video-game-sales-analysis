@@ -5,9 +5,9 @@ A beginner-friendly data analysis project using Excel, Python (Pandas), SQL, and
 **Objective**: To use historical game data to identify key trends in games sales, where they are being sold the most/least, what platforms sell the most games, etc.
 
 **Business Questions**:
-1. What are the top performing games?
-2. What gaming platform had the most sales?
-3. What games are popular in America, Europe, and Japan?
+1. How has the video game industry changed over time?
+2. Which gaming platforms were the most successful?
+3. Which games and genres dominate in America, Europe, and Japan?
 4. What publisher consistenly produces top-selling games?
 
 ## 2. Methodology + Tools
