@@ -27,19 +27,19 @@ A beginner-friendly data analysis project using Excel, Python (Pandas), SQL, and
 
 **1. How has the video game industry changed over time?**
 
-The game industry was selling at it's most in 2008, with $678 million being sold that year. The gaming industry then started to slowly climb back down, and by 2016 it was selling $70.93 million. 
+*The game industry was selling at it's most in 2008, with $678 million being sold that year. The gaming industry then started to slowly climb back down, and by 2016 it was selling $70.93 million.* 
 
 **2. Which gaming platforms were the most successful?**
 
-The PS2 was the most successful gaming platform with a total of $1,255.77 million global sales.
+*The PS2 was the most successful gaming platform with a total of $1,255.77 million global sales.*
 
 **3. Which games and genres dominate in America, Europe, and Japan?**
 
-Globally, the dominant genre was Action. The top three best-selling games of all time were Wii Sports, Grand Theft Auto V, and Super Mario Bros.
+*Globally, the dominant genre was Action. The top three best-selling games of all time were Wii Sports, Grand Theft Auto V, and Super Mario Bros.*
 
 **4. What publisher consistently produces top-selling games?**
 
-Nintendo consistently produced top-selling games, significantly outperforming competitors in the mid-2000s, with a notable peak in sales in 2006.
+*Nintendo consistently produced top-selling games, significantly outperforming competitors in the mid-2000s, with a notable peak in sales in 2006.*
 
 ### Visualizations:
 ![Global Market Trends](global-market-trends.png)
