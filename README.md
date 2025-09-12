@@ -1,4 +1,4 @@
-# video-game-sales-analysis
+# Video Game Sales Analysis
 A beginner-friendly data analysis project using Excel, Python (Pandas), SQL, and Power BI to explore and visualize video game sales data.
 
 ## 1. Project Objective + Business Question
@@ -18,11 +18,13 @@ A beginner-friendly data analysis project using Excel, Python (Pandas), SQL, and
 
 ## 3. Key Findings + Visualizations
 ### Key Findings:
-**Market Peak & Top Performer**: The video game industry's highest sales year was 2009, with a total of $667.30 million in global sales. The best-selling game of all time was Wii Sports.
+**Market Peak & Top Performer**: The video game industry's highest sales year was 2008, with a total of $678 million in global sales. The best-selling game of all time was Wii Sports.
 
 **Regional Genre Dominance**: The Action genre was the top-selling genre in both North America and Europe. In contrast, the Role-Playing genre dominated the market in Japan.
 
 **Most Successful Consoles**: The PlayStation 2 was the best-selling console globally, with the Xbox 360 and PlayStation 3 following closely behind.
 
 ### Visualizations:
+![Global Market Trends](global-market-trends.png)
 
+![Publisher Performance](publisher-performance.png)
