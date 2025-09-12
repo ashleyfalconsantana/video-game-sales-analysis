@@ -18,11 +18,11 @@ A beginner-friendly data analysis project using Excel, Python (Pandas), SQL, and
 
 ## 3. Key Findings + Visualizations
 ### Key Findings:
-**Market Peak & Top Performer**: The video game industry's highest sales year was 2008, with a total of $678 million in global sales. The best-selling game of all time was Wii Sports.
+- The video game industry's highest sales year was 2008, with a total of $678 million in global sales. The best-selling game of all time was Wii Sports.
 
-**Regional Genre Dominance**: The Action genre was the top-selling genre in both North America and Europe. In contrast, the Role-Playing genre dominated the market in Japan.
+- The Action genre was the top-selling genre in both North America and Europe. In contrast, the Role-Playing genre dominated the market in Japan.
 
-**Most Successful Consoles**: The PlayStation 2 was the best-selling console globally, with the Xbox 360 and PlayStation 3 following closely behind.
+- The PlayStation 2 was the best-selling console globally, with the Xbox 360 and PlayStation 3 following closely behind.
 
 
 **1. How has the video game industry changed over time?**
