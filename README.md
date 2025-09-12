@@ -24,6 +24,7 @@ A beginner-friendly data analysis project using Excel, Python (Pandas), SQL, and
 
 **Most Successful Consoles**: The PlayStation 2 was the best-selling console globally, with the Xbox 360 and PlayStation 3 following closely behind.
 
+
 **1. How has the video game industry changed over time?**
 The game industry was selling at it's most in 2008, with $678 million being sold that year. The gaming industry then started to slowly climb back down, and by 2016 it was selling $70.93 million. 
 
