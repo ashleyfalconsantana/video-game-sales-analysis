@@ -1,5 +1,5 @@
 # Video Game Sales Analysis
-A beginner-friendly data analysis project using Excel, Python (Pandas), SQL, and Power BI to explore and visualize video game sales data.
+A data analysis project using Excel, Python (Pandas), SQL, and Power BI to explore and visualize video game sales data.
 
 ## 1. Project Objective + Business Question
 **Objective**: To use historical game data to identify key trends in games sales, where they are being sold the most/least, what platforms sell the most games, etc.
